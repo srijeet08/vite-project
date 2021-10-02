@@ -28,8 +28,8 @@ jobs:
             # Runs a single command using the runners shell
       - name: setup git config
         run: |
-          git config user.name "Sadanand Pai"
-          git config user.email "sadypai@gmail.com"
+          git config user.name "Srijeet"
+          git config user.email "srijeet08@gmail.com"
       # Runs a set of commands using the runners shell
       - name: setup deployment
         run: |
